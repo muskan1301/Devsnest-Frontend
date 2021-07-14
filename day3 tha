@@ -1,0 +1,81 @@
+<html>
+    <head>
+        <style>
+            .class1
+            {
+                text-align: center;
+                color:darkblue;
+                border-left: 10px;
+                
+            
+            }
+            .class2
+            {
+                margin-left:20px;
+                padding-bottom: 10px;
+                padding-right:30px;
+                padding-top:10px;
+                color:darkgreen;
+
+            }
+            .edit
+            {
+                border-left:30px;
+                border-width: 10px;
+                border-style: solid;
+                border-color:darkblue;
+            }
+          #id1
+          {
+              font-style: italic;
+             
+          }
+          .class3
+          {
+              margin-left:40px;
+          }
+        </style>
+        </head>
+    <body>
+        <div class="edit">
+            <h2 class=" class1"><b>RESUME<br><br></b></h2>
+            <p class="class2"><strong>PERSONAL PROFILE</strong><hr></p>
+            <p class="class3">Electronics and Communication student from
+                Jaypee University of Information and
+                Technology,currently in 3rd Semester of
+                Engineering.</p>
+            <span><p class="class2"><strong>EDUCATION</strong><hr></p></span>
+            <span>
+                <p id="id1">Jaypee University of information and technology<br>Electronics and communication<br>2019-2023</p>
+            </span>
+            <p class="class2" ><strong>WORK EXPERIENCE<hr></strong></p>
+            <p>
+                <ul>
+                   <li>Iot and computer vision inter <br>Spark Foundation</li> 
+                    <li>Community influencer<br>progate</li>
+                    <li>Web intern<br>(Lealmart)</li>
+                </ul>
+            </p>
+            <p class="class2"><bold>CONTACT DETAILS</bold></p>
+            <p>
+                <ul>
+                    <li>Mobile:1234567890</li>
+                    <a href="https://github.com/supermoon02"><li>github</li></a>     
+                    <a href="https://www.linkedin.com/in/ritika-tiwari-380548190/"><li>linkedin</li></a>
+                 </ul>
+
+           </p>
+           <p class="class2"><bold>PERSONAL INTEREST<hr></bold></p>
+           <p>
+               <ul>
+                   <li>Reading</li>
+                   <li>singing</li>
+                   <li>dancing</li>         
+                </ul>
+           </p>
+           <p class="class2"><stong>ACHIEVEMENTS<hr></stong></p>
+           <p class="class3"> Scored first rank in IEEE hackathon<br>2nd  runnerup at hackfinity<br>Student ambassdor at WIE</p>
+           <p>
+        </div>
+    </body>
+</html>
